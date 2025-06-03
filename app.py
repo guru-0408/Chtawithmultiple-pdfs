@@ -85,7 +85,7 @@ def user_input(user_question):
 
 
 
-
+# define the function
 def main():
     st.set_page_config("Chat PDF")
     st.header("Chat with PDF using Gemini💁")
