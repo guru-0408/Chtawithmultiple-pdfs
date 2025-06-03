@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Hi, How are you, where are you working"
+=======
+"Hi, How are you"
+>>>>>>> master
